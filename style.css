@@ -26,6 +26,7 @@ a.button, a.mcnButton {
 	text-decoration: none;
 	color: #FFFFFF;
 	word-wrap: break-word;
+	display: block;
 	}
 
 .credit-link {display: none;}
